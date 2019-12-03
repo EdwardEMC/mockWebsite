@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+}
+
+#masthead {
+    background-image: url("../images/mainDisplay.jpg");
+    height:350px;
+    width:100%;
+}
+
+.buttons {
+    padding-top: 175px;
+    opacity: 90%;
+}
+
+#profilePic1 {
+    float: left;
+    margin: 15px 15px 0 0;
+}
+
+.site-footer {
+    background-color: lightgrey;
+}
